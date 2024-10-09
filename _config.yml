@@ -23,7 +23,7 @@ email: ganapuram.anusha@gmail.com
 github_username:  aganapuram
 
 # Build settings
-theme: chirpy   
+# theme: jekyll-theme-chirpy   
 remote-theme: cotes2020/jekyll-theme-chirpy
 
 plugins:
